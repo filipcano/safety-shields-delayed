@@ -1,0 +1,4 @@
+python traffic_scenarios.py --scenario 4 --shield shield/shield_pedestrianv13_d0.pickle --delay 0 --display-shield --save-obs experiments_data/pedestrian_d0.csv
+python traffic_scenarios.py --scenario 4 --shield shield/shield_pedestrianv13_d1.pickle --delay 1 --display-shield --save-obs experiments_data/pedestrian_d1.csv
+python traffic_scenarios.py --scenario 4 --shield shield/shield_pedestrianv13_d2.pickle --delay 2 --display-shield --save-obs experiments_data/pedestrian_d2.csv
+python traffic_scenarios.py --scenario 4 --shield shield/shield_pedestrianv13_d3.pickle --delay 3 --display-shield --save-obs experiments_data/pedestrian_d3.csv

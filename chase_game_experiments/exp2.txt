@@ -1,0 +1,24 @@
+9 9
+Finished with strategy delta = 0 in 0.042 seconds  
+Finished populating safety vector in 0.005 seconds  
+Finished with strategy delta = 1 in 0.127 seconds  
+Finished with strategy delta = 2 in 0.256 seconds  
+Finished with strategy delta = 3 in 3.523 seconds  
+Finished with strategy delta = 4 in 8.68 seconds  
+Finished with strategy delta = 5 in 113.888 seconds  
+Finished with strategy delta = 6 in 304.251 seconds  
+Finished with safety strategy delta = 0 in 0.284 seconds  and size 5100  
+Finished with safety strategy delta = 1 in 0.766 seconds  and size 4862  
+Finished with safety strategy delta = 2 in 5.422 seconds  and size 58280  
+Finished with safety strategy delta = 3 in 8.081 seconds  and size 54156  
+Finished with safety strategy delta = 4 in 111.534 seconds  and size 683760  
+Finished with safety strategy delta = 5 in 158.497 seconds  and size 629090  
+Finished with safety strategy delta = 6 in 2064.9 seconds  and size 7977400  
+Finished populate controllability vector in 2.557 seconds
+Finished with controllability strategy delta = 0 in 0.375 seconds and size 5100
+Finished with controllability strategy delta = 1 in 0.37 seconds and size 4862
+Finished with controllability strategy delta = 2 in 5.132 seconds and size 58280
+Finished with controllability strategy delta = 3 in 8.395 seconds and size 54156
+Finished with controllability strategy delta = 4 in 110.66 seconds and size 683760
+Finished with controllability strategy delta = 5 in 158.645 seconds and size 629090
+Finished with controllability strategy delta = 6 in 2070.96 seconds and size 7977400

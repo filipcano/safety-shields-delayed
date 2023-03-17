@@ -1,0 +1,40 @@
+9 9
+Finished with strategy delta = 1 in 0.126 seconds  
+Finished with strategy delta = 2 in 0.424 seconds  
+Finished with strategy delta = 3 in 2.74 seconds  
+Finished with strategy delta = 4 in 10.862 seconds  
+Finished with strategy delta = 5 in 79.735 seconds  
+Finished with strategy delta = 6 in 398.908 seconds  
+Finished with safety strategy delta = 0 in 0.517 seconds  and size 5100  
+Finished with safety strategy delta = 1 in 0.48 seconds  and size 4852  
+Finished with safety strategy delta = 2 in 4.174 seconds  and size 48616  
+Finished with safety strategy delta = 3 in 10.018 seconds  and size 45240  
+Finished with safety strategy delta = 4 in 83.899 seconds  and size 480152  
+Finished with safety strategy delta = 5 in 131.834 seconds  and size 441848  
+Finished with safety strategy delta = 6 in 1202.39 seconds  and size 4706046  
+Finished with controllability strategy delta = 0 in 0.264 seconds and size 5100
+Finished with controllability strategy delta = 1 in 0.362 seconds and size 4852
+Finished with controllability strategy delta = 2 in 4.599 seconds and size 48616
+Finished with controllability strategy delta = 3 in 6.779 seconds and size 45240
+Finished with controllability strategy delta = 4 in 78.826 seconds and size 480152
+Finished with controllability strategy delta = 5 in 109.301 seconds and size 441848
+Finished with controllability strategy delta = 6 in 1633.29 seconds and size 4706046
+
+Game results for trivial strategy,  100 rounds with 2000 steps each. 
+For delta= 0, score: 5007, num of shield interference: 11741
+For delta= 2, score: 3604, num of shield interference: 15044
+For delta= 4, score: 3462, num of shield interference: 16012
+For delta= 6, score: 3018, num of shield interference: 18224
+
+game results for most_controllable strategy,  100 rounds with 2000 steps each. 
+For delta= 0, score: 4126, num of shield interference: 8498
+For delta= 2, score: 3386, num of shield interference: 9585
+For delta= 4, score: 3181, num of shield interference: 10693
+For delta= 6, score: 2745, num of shield interference: 12274
+
+game results for safest strategy,  100 rounds with 2000 steps each. 
+For delta= 0, score: 4248, num of shield interference: 9087
+For delta= 2, score: 3425, num of shield interference: 10745
+For delta= 4, score: 3145, num of shield interference: 11412
+For delta= 6, score: 2679, num of shield interference: 12201
+

@@ -1,0 +1,4 @@
+python traffic_scenarios.py --scenario 1 --shield shield/shield_crossingv9_d0.pickle --delay 0 --display-shield --save-obs experiments_data/crossing_d0.csv
+python traffic_scenarios.py --scenario 1 --shield shield/shield_crossingv9_d1.pickle --delay 1 --display-shield --save-obs experiments_data/crossing_d1.csv
+python traffic_scenarios.py --scenario 1 --shield shield/shield_crossingv9_d2.pickle --delay 2 --display-shield --save-obs experiments_data/crossing_d2.csv
+python traffic_scenarios.py --scenario 1 --shield shield/shield_crossingv9_d3.pickle --delay 3 --display-shield --save-obs experiments_data/crossing_d3.csv

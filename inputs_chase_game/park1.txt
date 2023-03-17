@@ -1,0 +1,22 @@
+7 10
+14
+
+2 2
+2 3
+2 4
+2 5
+2 6 
+2 7
+4 2
+4 3
+4 4
+4 5
+4 6 
+4 7
+3 4
+3 5
+
+4
+U D L R
+25
+UL LU UR RU DL LD DR RD S U D L R UUL UUR DDL DDR RRU RRD LLU LLD UU DD RR LL

@@ -1,0 +1,133 @@
+inputs/park1.txt
+6 9
+Finished with strategy delta = 0 in 0.026 seconds  
+Finished populating safety vector in 0.003 seconds  
+Finished with strategy delta = 1 in 0.078 seconds  
+Finished with strategy delta = 2 in 0.157 seconds  
+Finished with strategy delta = 3 in 2.134 seconds  
+Finished with strategy delta = 4 in 5.347 seconds  
+Finished with safety strategy delta = 0 in 0.16 seconds  and size 3074  
+Finished with safety strategy delta = 1 in 0.218 seconds  and size 2888  
+Finished with safety strategy delta = 2 in 2.948 seconds  and size 34980  
+Finished with safety strategy delta = 3 in 4.496 seconds  and size 31748  
+Finished with safety strategy delta = 4 in 61.26 seconds  and size 401883  
+Finished populate controllability vector in 0.113 seconds
+Finished with controllability strategy delta = 0 in 0.132 seconds and size 3074
+Finished with controllability strategy delta = 1 in 0.224 seconds and size 2888
+Finished with controllability strategy delta = 2 in 3.118 seconds and size 34980
+Finished with controllability strategy delta = 3 in 4.768 seconds and size 31748
+Finished with controllability strategy delta = 4 in 62.734 seconds and size 401883
+inputs/park2.txt
+9 9
+Finished with strategy delta = 0 in 0.042 seconds  
+Finished populating safety vector in 0.005 seconds  
+Finished with strategy delta = 1 in 0.128 seconds  
+Finished with strategy delta = 2 in 0.259 seconds  
+Finished with strategy delta = 3 in 3.696 seconds  
+Finished with strategy delta = 4 in 9.185 seconds  
+Finished with safety strategy delta = 0 in 0.254 seconds  and size 5100  
+Finished with safety strategy delta = 1 in 0.373 seconds  and size 4862  
+Finished with safety strategy delta = 2 in 5.246 seconds  and size 58280  
+Finished with safety strategy delta = 3 in 8.288 seconds  and size 54156  
+Finished with safety strategy delta = 4 in 108.923 seconds  and size 683760  
+Finished populate controllability vector in 0.193 seconds
+Finished with controllability strategy delta = 0 in 0.214 seconds and size 5100
+Finished with controllability strategy delta = 1 in 0.381 seconds and size 4862
+Finished with controllability strategy delta = 2 in 5.246 seconds and size 58280
+Finished with controllability strategy delta = 3 in 8.25 seconds and size 54156
+Finished with controllability strategy delta = 4 in 108.672 seconds and size 683760
+inputs/park3.txt
+12 9
+Finished with strategy delta = 0 in 0.063 seconds  
+Finished populating safety vector in 0.009 seconds  
+Finished with strategy delta = 1 in 0.191 seconds  
+Finished with strategy delta = 2 in 0.394 seconds  
+Finished with strategy delta = 3 in 5.581 seconds  
+Finished with strategy delta = 4 in 13.806 seconds  
+Finished with safety strategy delta = 0 in 0.373 seconds  and size 7638  
+Finished with safety strategy delta = 1 in 0.561 seconds  and size 7348  
+Finished with safety strategy delta = 2 in 7.937 seconds  and size 87468  
+Finished with safety strategy delta = 3 in 12.593 seconds  and size 82452  
+Finished with safety strategy delta = 4 in 166.512 seconds  and size 1039096  
+Finished populate controllability vector in 0.294 seconds
+Finished with controllability strategy delta = 0 in 0.314 seconds and size 7638
+Finished with controllability strategy delta = 1 in 0.57 seconds and size 7348
+Finished with controllability strategy delta = 2 in 7.921 seconds and size 87468
+Finished with controllability strategy delta = 3 in 12.581 seconds and size 82452
+Finished with controllability strategy delta = 4 in 166.321 seconds and size 1039096
+inputs/park4.txt
+15 9
+Finished with strategy delta = 0 in 0.086 seconds  
+Finished populating safety vector in 0.012 seconds  
+Finished with strategy delta = 1 in 0.265 seconds  
+Finished with strategy delta = 2 in 0.542 seconds  
+Finished with strategy delta = 3 in 7.794 seconds  
+Finished with strategy delta = 4 in 19.117 seconds  
+Finished with safety strategy delta = 0 in 0.519 seconds  and size 10688  
+Finished with safety strategy delta = 1 in 0.786 seconds  and size 10346  
+Finished with safety strategy delta = 2 in 11.144 seconds  and size 122544  
+Finished with safety strategy delta = 3 in 18.025 seconds  and size 116636  
+Finished with safety strategy delta = 4 in 237.878 seconds  and size 1467904  
+Finished populate controllability vector in 0.418 seconds
+Finished with controllability strategy delta = 0 in 0.441 seconds and size 10688
+Finished with controllability strategy delta = 1 in 0.797 seconds and size 10346
+Finished with controllability strategy delta = 2 in 11.168 seconds and size 122544
+Finished with controllability strategy delta = 3 in 18.049 seconds and size 116636
+Finished with controllability strategy delta = 4 in 237.016 seconds and size 1467904
+inputs/park5.txt
+18 9
+Finished with strategy delta = 0 in 0.116 seconds  
+Finished populating safety vector in 0.018 seconds  
+Finished with strategy delta = 1 in 0.361 seconds  
+Finished with strategy delta = 2 in 0.729 seconds  
+Finished with strategy delta = 3 in 10.57 seconds  
+Finished with strategy delta = 4 in 25.834 seconds  
+Finished with safety strategy delta = 0 in 0.695 seconds  and size 14250  
+Finished with safety strategy delta = 1 in 1.071 seconds  and size 13856  
+Finished with safety strategy delta = 2 in 15.218 seconds  and size 163508  
+Finished with safety strategy delta = 3 in 24.794 seconds  and size 156708  
+Finished with safety strategy delta = 4 in 324.542 seconds  and size 1970184  
+Finished populate controllability vector in 0.564 seconds
+Finished with controllability strategy delta = 0 in 0.59 seconds and size 14250
+Finished with controllability strategy delta = 1 in 1.076 seconds and size 13856
+Finished with controllability strategy delta = 2 in 15.051 seconds and size 163508
+Finished with controllability strategy delta = 3 in 24.55 seconds and size 156708
+Finished with controllability strategy delta = 4 in 322.996 seconds and size 1970184
+inputs/park6.txt
+21 9
+Finished with strategy delta = 0 in 0.149 seconds  
+Finished populating safety vector in 0.023 seconds  
+Finished with strategy delta = 1 in 0.463 seconds  
+Finished with strategy delta = 2 in 0.938 seconds  
+Finished with strategy delta = 3 in 13.509 seconds  
+Finished with strategy delta = 4 in 32.769 seconds  
+Finished with safety strategy delta = 0 in 0.887 seconds  and size 18324  
+Finished with safety strategy delta = 1 in 1.375 seconds  and size 17878  
+Finished with safety strategy delta = 2 in 19.391 seconds  and size 210360  
+Finished with safety strategy delta = 3 in 31.862 seconds  and size 202668  
+Finished with safety strategy delta = 4 in 441.418 seconds  and size 2545936  
+Finished populate controllability vector in 0.734 seconds
+Finished with controllability strategy delta = 0 in 0.76 seconds and size 18324
+Finished with controllability strategy delta = 1 in 1.394 seconds and size 17878
+Finished with controllability strategy delta = 2 in 20.186 seconds and size 210360
+Finished with controllability strategy delta = 3 in 36.763 seconds and size 202668
+Finished with controllability strategy delta = 4 in 449.616 seconds and size 2545936
+inputs/park7.txt
+24 9
+Finished with strategy delta = 0 in 0.193 seconds  
+Finished populating safety vector in 0.031 seconds  
+Finished with strategy delta = 1 in 0.579 seconds  
+Finished with strategy delta = 2 in 1.18 seconds  
+Finished with strategy delta = 3 in 17.12 seconds  
+Finished with strategy delta = 4 in 47.942 seconds  
+Finished with safety strategy delta = 0 in 1.294 seconds  and size 22910  
+Finished with safety strategy delta = 1 in 1.936 seconds  and size 22412  
+Finished with safety strategy delta = 2 in 28.329 seconds  and size 263100  
+Finished with safety strategy delta = 3 in 48.444 seconds  and size 254516  
+Finished with safety strategy delta = 4 in 556.995 seconds  and size 3195160  
+Finished populate controllability vector in 0.934 seconds
+Finished with controllability strategy delta = 0 in 0.973 seconds and size 22910
+Finished with controllability strategy delta = 1 in 1.878 seconds and size 22412
+Finished with controllability strategy delta = 2 in 24.674 seconds and size 263100
+Finished with controllability strategy delta = 3 in 40.633 seconds and size 254516
+Finished with controllability strategy delta = 4 in 537.761 seconds and size 3195160
