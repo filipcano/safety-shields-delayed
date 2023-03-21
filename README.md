@@ -3,7 +3,7 @@
 
 
 ## Requirements
-The first set of the experiments (figures 7 and 8) can be executed with the VM as default with 8GB of RAM.
+The first set of the experiments can be executed with the VM as default with 8GB of RAM.
 For the second set of experiments, both the shield computation and the running of the CARLA simulation  
 the resources required to generate the shields are similar, but to run the CARLA simulator properly the VM requires much more resources.
 We have not been able to fully run the car simulations with under 16GB of RAM,
