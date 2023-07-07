@@ -1,6 +1,6 @@
 # Safety Shielding under Delayed Observation
 
-
+https://github.com/filipcano/safety-shields-delayed/assets/109427334/b1809ef2-382b-4bca-a9f3-f9b656606d6f
 
 ## Requirements
 The first set of the experiments can be executed with the VM as default with 8GB of RAM.
@@ -17,7 +17,8 @@ Contains the main files.
 #### delayed_shields.h & delayed_shields.cpp
 The class and header file containing the objects and algorithms needed to
 compute shields resilient to delayed inputs.
-This class is used for all experiments.  
+This class is used for all experiments. 
+
 
 #### chase_game.h & chase_game.cpp
 The class and header file to run the chase game experiment.
