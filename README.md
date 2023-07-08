@@ -1,6 +1,8 @@
 # Safety Shielding under Delayed Observation
 
-https://github.com/filipcano/safety-shields-delayed/assets/109427334/b1809ef2-382b-4bca-a9f3-f9b656606d6f
+
+https://github.com/filipcano/safety-shields-delayed/assets/109427334/d9ae33c2-5ba1-4f96-a549-fadc7a767db1
+
 
 ## Requirements
 The first set of the experiments can be executed with the VM as default with 8GB of RAM.
