@@ -1,7 +1,7 @@
 # Safety Shielding under Delayed Observation
 
 
-https://github.com/filipcano/safety-shields-delayed/assets/109427334/d9ae33c2-5ba1-4f96-a549-fadc7a767db1
+https://github.com/filipcano/safety-shields-delayed/assets/109427334/b230a7c5-fb15-4b42-ba44-1a373a9e7aac
 
 
 ## Requirements
