@@ -1,6 +1,7 @@
 # Safety Shielding under Delayed Observation
+Filip Cano Córdoba, Alexander Palmisano, Martin Fränzle, Roderick Bloem, Bettina Könighofer
 
-Accompanying repository to our [ICAPS 2023](https://icaps23.icaps-conference.org/) [paper](https://doi.org/10.1609/icaps.v33i1.27181).
+Accompanying repository to our [paper](https://doi.org/10.1609/icaps.v33i1.27181) presented at [ICAPS 2023](https://icaps23.icaps-conference.org/).
 
 https://github.com/filipcano/safety-shields-delayed/assets/109427334/b230a7c5-fb15-4b42-ba44-1a373a9e7aac
 
