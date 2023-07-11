@@ -1,5 +1,5 @@
 # Safety Shielding under Delayed Observation
-Filip Cano Córdoba, Alexander Palmisano, Martin Fränzle, Roderick Bloem, Bettina Könighofer
+[Filip Cano Córdoba](https://matefriki.github.io), Alexander Palmisano, Martin Fränzle, Roderick Bloem, Bettina Könighofer
 
 Accompanying repository to our [paper](https://doi.org/10.1609/icaps.v33i1.27181) presented at [ICAPS 2023](https://icaps23.icaps-conference.org/).
 
